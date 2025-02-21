@@ -32,13 +32,11 @@ layout:
 
 **Sensitive Data Access:** No known sensitive data access.&#x20;
 
+> No known resignations.
+
 ## WRITE ACCESS
 
 **Data Integrity:** No known edits to public data.&#x20;
-
-## PRIVACY HEROS
-
-**Dismissals:** No known firings or resignations.&#x20;
 
 ## LEGAL ACTION
 
