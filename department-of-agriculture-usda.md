@@ -42,4 +42,4 @@ layout:
 
 ## LEGAL ACTION
 
-**Privacy Act law suits:** No known edits to public data.&#x20;
+**Privacy Act lawsuits:** No known legal action.&#x20;
