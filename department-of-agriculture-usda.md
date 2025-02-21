@@ -1,3 +1,8 @@
+---
+cover: https://www.section508.gov/assets/images/seals-logos/usda.jpg
+coverY: 0
+---
+
 # Department of Agriculture (USDA)
 
 [Department of Agriculture (USDA)](https://www.section508.gov/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=USDA)
