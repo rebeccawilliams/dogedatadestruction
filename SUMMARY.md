@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [How to Contribute](how-to-contribute.md)
+* [Rays of Hope / ANTI-Destruction](rays-of-hope-anti-destruction.md)
 
 ## CFO Act Agencies
 
