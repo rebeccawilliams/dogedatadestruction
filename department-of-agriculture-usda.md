@@ -1,6 +1,20 @@
 ---
 cover: https://www.section508.gov/assets/images/seals-logos/usda.jpg
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Department of Agriculture (USDA)
