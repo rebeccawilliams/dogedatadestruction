@@ -14,9 +14,9 @@ layout:
 
 # Department of Agriculture (USDA)
 
-[Department of Agriculture (USDA)](https://www.section508.gov/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=USDA)
+<figure><img src="https://www.section508.gov/assets/images/seals-logos/usda.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
-<figure><img src="https://www.section508.gov/assets/images/seals-logos/usda.jpg" alt=""><figcaption></figcaption></figure>
+[Department of Agriculture (USDA)](https://www.section508.gov/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=USDA)
 
 ## DELETION
 
