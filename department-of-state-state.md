@@ -14,9 +14,9 @@ layout:
 
 # Department of State (STATE)
 
-<div align="left" data-full-width="true"><figure><img src="https://www.section508.gov/assets/images/seals-logos/usda.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
-
 [Department of State (STATE)](https://www.section508.gov/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=STATE)
+
+<div align="left"><figure><img src="https://www.section508.gov/assets/images/seals-logos/state.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## DELETION
 

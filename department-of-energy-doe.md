@@ -12,11 +12,11 @@ layout:
     visible: true
 ---
 
-# Department of Commerce (DOC)
+# Department of Energy (DOE)
 
-<div align="left"><figure><img src="https://www.section508.gov/assets/images/seals-logos/doc.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
+[Department of Energy (DOE)](https://www.section508.gov/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DOE)
 
-[Department of Commerce (DOC)](https://www.section508.gov/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DOC)
+<div align="left"><figure><img src="https://www.section508.gov/assets/images/seals-logos/doe.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## DELETION
 

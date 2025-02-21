@@ -14,9 +14,9 @@ layout:
 
 # Department of Justice (DOJ)
 
-<div align="left" data-full-width="true"><figure><img src="https://www.section508.gov/assets/images/seals-logos/usda.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
-
 [Department of Justice (DOJ)](https://www.section508.gov/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DOJ)
+
+<div align="left"><figure><img src="https://www.section508.gov/assets/images/seals-logos/doj.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## DELETION
 

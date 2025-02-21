@@ -14,9 +14,9 @@ layout:
 
 # Department of Homeland Security (DHS)
 
-<div align="left" data-full-width="true"><figure><img src="https://www.section508.gov/assets/images/seals-logos/usda.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
-
 [Department of Homeland Security (DHS)](https://www.section508.gov/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DHS)
+
+<div align="left"><figure><img src="https://www.section508.gov/assets/images/seals-logos/dhs.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## DELETION
 

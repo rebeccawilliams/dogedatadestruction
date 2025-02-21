@@ -5,6 +5,7 @@
 * [Department of Commerce (DOC)](department-of-commerce-doc.md)
 * [Department of Defense (DOD)](department-of-defense-dod.md)
 * [Department of Education (ED)](department-of-education-ed.md)
+* [Department of Energy (DOE)](department-of-energy-doe.md)
 * [Department of Health and Human Services (HHS)](department-of-health-and-human-services-hhs.md)
 * [Department of Homeland Security (DHS)](department-of-homeland-security-dhs.md)
 * [Department of Housing and Urban Development (HUD)](department-of-housing-and-urban-development-hud.md)
