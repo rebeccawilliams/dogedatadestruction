@@ -1,2 +1,5 @@
-# dogedatadestruction
-Website documenting various ways DOGE has destroyed access to public data resources.
+# Home
+
+
+
+<figure><img src=".gitbook/assets/Data Destruction.png" alt=""><figcaption></figcaption></figure>
