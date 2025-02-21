@@ -32,10 +32,14 @@ layout:
 
 **Sensitive Data Access:** No known sensitive data access.&#x20;
 
-**Privacy Act Lawsuits:** No known Privacy Act lawsuits.
-
-**Privacy Champions:** No known dismissals or resignations related to sensitive data access.&#x20;
-
 ## WRITE ACCESS
 
 **Data Integrity:** No known edits to public data.&#x20;
+
+## PERSONNEL
+
+**Privacy Heros:** No known firings or dismissals.
+
+## LEGAL ACTION
+
+**Privacy Act law suits:** No known edits to public data.&#x20;
