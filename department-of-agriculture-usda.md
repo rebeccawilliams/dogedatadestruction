@@ -1,10 +1,5 @@
 ---
-cover: https://www.section508.gov/assets/images/seals-logos/usda.jpg
-coverY: 44
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -20,6 +15,8 @@ layout:
 # Department of Agriculture (USDA)
 
 [Department of Agriculture (USDA)](https://www.section508.gov/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=USDA)
+
+<figure><img src="https://www.section508.gov/assets/images/seals-logos/usda.jpg" alt=""><figcaption></figcaption></figure>
 
 ## DELETION
 
