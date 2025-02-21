@@ -36,9 +36,9 @@ layout:
 
 **Data Integrity:** No known edits to public data.&#x20;
 
-## PERSONNEL
+## PRIVACY HEROS
 
-**Privacy Heros:** No known firings or dismissals.
+**Dismissals:** No known firings or resignations.&#x20;
 
 ## LEGAL ACTION
 
