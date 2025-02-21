@@ -12,11 +12,11 @@ layout:
     visible: true
 ---
 
-# Department of Defense (DOD)
+# National Aeronautics and Space Administration (NASA)
 
-[Department of Defense (DOD)](https://www.section508.gov/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=DOD)
+<div align="left" data-full-width="true"><figure><img src="https://www.section508.gov/assets/images/seals-logos/usda.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
 
-<div align="left"><figure><img src="https://www.defense.gov/portals/1/Page-Assets/branding-guide/seals/DoD-Seal.png" alt="" width="188"><figcaption></figcaption></figure></div>
+[National Aeronautics and Space Administration (NASA)](https://www.section508.gov/manage/section-508-assessment/2024/appendix-c-entity-summary/?id=NASA)
 
 ## DELETION
 
