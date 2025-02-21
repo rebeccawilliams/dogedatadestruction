@@ -16,7 +16,7 @@
 
 **Sensitive Data Access:** No known sensitive data access.&#x20;
 
-**Privacy Act lawsuits:** No known Privacy Act lawsuits.
+**Privacy Act Lawsuits:** No known Privacy Act lawsuits.
 
 **Privacy Champions:** No known dismissals or resignations related to sensitive data access.&#x20;
 
