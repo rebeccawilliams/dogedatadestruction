@@ -1,10 +1,16 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Department of Agriculture (USDA)](department-of-agriculture-usda.md)
-* [Department of Commerce (DOC)](department-of-commerce-doc.md)
-* [Department of Defense (DOD)](department-of-defense-dod.md)
-* [Department of Education (ED)](department-of-education-ed.md)
+
+## CFO Act Agencies
+
+* [Department of Agriculture (USDA)](cfo-act-agencies/department-of-agriculture-usda.md)
+* [Department of Commerce (DOC)](cfo-act-agencies/department-of-commerce-doc.md)
+* [Department of Defense (DOD)](cfo-act-agencies/department-of-defense-dod.md)
+* [Department of Education (ED)](cfo-act-agencies/department-of-education-ed.md)
+
+***
+
 * [Department of Energy (DOE)](department-of-energy-doe.md)
 * [Department of Health and Human Services (HHS)](department-of-health-and-human-services-hhs.md)
 * [Department of Homeland Security (DHS)](department-of-homeland-security-dhs.md)
