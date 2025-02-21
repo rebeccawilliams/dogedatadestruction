@@ -22,7 +22,7 @@ layout:
 
 **Public Data:** No known dataset removals.&#x20;
 
-> No known mirrored data or data rescue projects.
+> No known mirrored data or data rescue projects. 
 
 **Data Integrity:** No known removal of specific data fields.&#x20;
 
