@@ -1,6 +1,6 @@
 ---
 cover: https://www.section508.gov/assets/images/seals-logos/usda.jpg
-coverY: 0
+coverY: 44
 layout:
   cover:
     visible: true
